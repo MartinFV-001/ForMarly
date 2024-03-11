@@ -1,0 +1,45 @@
+body {
+    background-color: #2b2b2b;
+    color: white;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.centered-text {
+    text-align: center;
+    margin-right: 50px;
+    font-size: 24px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.centered-image {
+    max-width: 700px;
+    height: auto;
+    margin: 50px;
+}
+
+.game-container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.game-title {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 10%;
+}
+
+.Italianno-regular {
+    font-family: 'Italianno', cursive;
+}
